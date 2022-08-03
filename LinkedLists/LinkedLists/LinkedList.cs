@@ -26,7 +26,41 @@ namespace LinkedLists
             Head = null;
         }
 
-        
+        public bool IsPalindrome(LinkedList list)
+        {
+            var head = list.Head;
+            var fast = head;
+            var slow = head;
+
+            while (fast != null && fast.NextElement != null)
+            {
+                slow = slow.NextElement;
+                fast = fast.NextElement.NextElement;
+            }
+
+            var first = head;
+            Node prev = null;
+
+            while (slow != null)
+            {
+                Node current = slow.NextElement;
+                slow.NextElement = prev;
+                prev = slow;
+                slow = current;
+            }
+
+            while (first != null && prev != null)
+            {
+                if (first.Data != prev.Data)
+                {
+                    return false;
+                }
+
+                first = first.NextElement;
+                prev = prev.NextElement;
+            }
+            return true;
+        }
         public int MaximumPages(LinkedList list)
         {
             var fast = list.Head;
