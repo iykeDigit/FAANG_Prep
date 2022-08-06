@@ -1,0 +1,16 @@
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.AssemblyReference.cache
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+C:\Users\injoku\Desktop\Algorithms\New\FAANG_Prep\BinarySearch\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache
