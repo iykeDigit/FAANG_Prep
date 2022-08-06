@@ -26,6 +26,46 @@ namespace LinkedLists
             Head = null;
         }
 
+        ///// <summary>
+        ///// Detect the begining of the cycle in a linkedlist
+        ///// Check if the cycle exists, if it does return the beginning
+        ///// </summary>
+        ///// <param name="head"></param>
+        ///// <returns></returns>
+        //public ListNode Intersection(ListNode head)
+        //{
+        //    ListNode fast = head;
+        //    ListNode slow = head;
+
+        //    while (fast != null && fast.next != null)
+        //    {
+        //        slow = slow.next;
+        //        fast = fast.next.next;
+        //        if (slow == fast)
+        //        {
+        //            return fast;
+        //        }
+        //    }
+
+        //    return null;
+        //}
+        //public ListNode DetectCycle(ListNode head)
+        //{
+        //    if (head == null || head.next == null) return null;
+        //    ListNode intersect = Intersection(head);
+        //    if (intersect == null) return null;
+
+        //    ListNode slow = head;
+
+        //    while (slow != intersect)
+        //    {
+        //        slow = slow.next;
+        //        intersect = intersect.next;
+        //    }
+
+        //    return intersect;
+        //}
+
         public bool IsPalindrome(LinkedList list)
         {
             var head = list.Head;

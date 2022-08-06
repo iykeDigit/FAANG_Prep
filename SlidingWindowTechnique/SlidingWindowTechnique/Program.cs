@@ -11,7 +11,7 @@ namespace SlidingWindowTechnique
         {
             var arr = new int[] { 1,2,1,4, 4, 4, 4, 5};
            
-            var x = UniqueChars("ABCA");
+            var x = UniqueChars("ABAB");
             Console.WriteLine();
         }
 
