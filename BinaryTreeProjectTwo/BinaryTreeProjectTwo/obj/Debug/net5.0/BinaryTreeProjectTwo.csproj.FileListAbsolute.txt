@@ -1,0 +1,16 @@
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\bin\Debug\net5.0\BinaryTreeProjectTwo.exe
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\bin\Debug\net5.0\BinaryTreeProjectTwo.deps.json
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\bin\Debug\net5.0\BinaryTreeProjectTwo.runtimeconfig.json
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\bin\Debug\net5.0\BinaryTreeProjectTwo.runtimeconfig.dev.json
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\bin\Debug\net5.0\BinaryTreeProjectTwo.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\bin\Debug\net5.0\ref\BinaryTreeProjectTwo.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\bin\Debug\net5.0\BinaryTreeProjectTwo.pdb
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.csproj.AssemblyReference.cache
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.AssemblyInfoInputs.cache
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.AssemblyInfo.cs
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.csproj.CoreCompileInputs.cache
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\ref\BinaryTreeProjectTwo.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.pdb
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\BinaryTreeProjectTwo\BinaryTreeProjectTwo\obj\Debug\net5.0\BinaryTreeProjectTwo.genruntimeconfig.cache

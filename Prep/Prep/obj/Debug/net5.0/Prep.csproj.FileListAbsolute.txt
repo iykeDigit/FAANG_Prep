@@ -1,0 +1,16 @@
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\bin\Debug\net5.0\Prep.exe
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\bin\Debug\net5.0\Prep.deps.json
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\bin\Debug\net5.0\Prep.runtimeconfig.json
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\bin\Debug\net5.0\Prep.runtimeconfig.dev.json
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\bin\Debug\net5.0\Prep.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\bin\Debug\net5.0\ref\Prep.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\bin\Debug\net5.0\Prep.pdb
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.csproj.AssemblyReference.cache
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.AssemblyInfoInputs.cache
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.AssemblyInfo.cs
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.csproj.CoreCompileInputs.cache
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\ref\Prep.dll
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.pdb
+C:\Users\injoku\Desktop\Algorithms\FAANG_Prep\Prep\Prep\obj\Debug\net5.0\Prep.genruntimeconfig.cache
