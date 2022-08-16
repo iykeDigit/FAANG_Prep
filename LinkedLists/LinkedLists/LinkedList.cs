@@ -103,10 +103,9 @@ namespace LinkedLists
         }
         public int MaximumPages(LinkedList list)
         {
-            var fast = list.Head;
-            var slow = list.Head;
+            var fast = Head;
+            var slow = Head;
             var max = int.MinValue;
-            var first = list.Head;
 
             while (fast != null && fast.NextElement != null)
             {
@@ -114,26 +113,24 @@ namespace LinkedLists
                 fast = fast.NextElement.NextElement;
             }
 
-            //reverse from the middle
             Node prev = null;
-
             while (slow != null)
             {
-                Node currentNode = slow.NextElement;
+                Node currént = slow.NextElement;
                 slow.NextElement = prev;
                 prev = slow;
-                slow = currentNode;
+                slow = currént;
             }
 
-           while (first != null && prev != null)
+            Node first = Head;
+            while (first != null && prev != null)
             {
-                max = Math.Max(max, first.Data + prev.Data);
+                max = Math.Max(max, (first.Data + prev.Data));
                 first = first.NextElement;
                 prev = prev.NextElement;
             }
 
             return max;
-
         }
 
         //public int MaximumPages(LinkedList list)

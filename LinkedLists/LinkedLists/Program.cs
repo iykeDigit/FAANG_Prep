@@ -9,6 +9,8 @@ namespace LinkedLists
         {
             LinkedList list = new LinkedList();
 
+            list.InsertAtHead(12);
+            list.InsertAtHead(9);
             list.InsertAtHead(2);
             list.InsertAtHead(3);
             list.InsertAtHead(4);
